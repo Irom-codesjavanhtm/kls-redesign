@@ -24,7 +24,7 @@ export default function OnlineStore() {
         <div className="feature-card bg-white shadow-lg rounded-lg p-6">
           <h3 className="text-2xl font-semibold text-black">Customizable Themes</h3>
           <p className="text-gray-600 mt-2">
-            Choose from a variety of modern and responsive themes to suit your brand's identity.
+            Choose from a variety of modern and responsive themes to suit your brand&apos;s identity.
           </p>
         </div>
 
