@@ -9,7 +9,7 @@ export default function About() {
       {/* Header Section */}
       <div className="text-center mb-12 py-12">
         <p className="text-2xl text-black mt-4">
-          " အကောင်းမွန်ဆုံး ဝန်ဆောင်မှုတွေနဲ့ <span className="text-lime-400 font-semibold">Kone Lone Shin</span> မှ ကြိုဆိုပါတယ် "
+          &quot; အကောင်းမွန်ဆုံး ဝန်ဆောင်မှုတွေနဲ့ <span className="text-lime-400 font-semibold">Kone Lone Shin</span> မှ ကြိုဆိုပါတယ် &quot;
         </p>
         <div className="flex justify-center items-center">
             <span className="block w-11/12 border-b border-gray-400 py-7"></span>
