@@ -24,7 +24,7 @@ export default function CMSPackage() {
         <div className="feature-card bg-white shadow-lg rounded-lg p-6">
           <h3 className="text-2xl font-semibold text-black">SEO Optimization</h3>
           <p className="text-gray-600 mt-2">
-            Boost your site's visibility and improve search engine rankings with built-in SEO tools.
+            Boost your site&apos;s visibility and improve search engine rankings with built-in SEO tools.
           </p>
         </div>
 
